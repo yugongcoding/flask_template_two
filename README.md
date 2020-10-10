@@ -1,0 +1,2 @@
+# flask_template_two
+flask创建web项目的另一个常用模板代码框架
